@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class avg {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("WAP TO FIND THE AVG OF ARRAY ELEMENTS!\n\n");
         int sum=0;
         System.out.print("Enter the size: ");
         int n = sc.nextInt();
