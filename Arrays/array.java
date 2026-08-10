@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class array{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-
+        System.out.println("Array Implementation!\n\n");
         System.out.print("Enter the size of array: ");
         int size = sc.nextInt();
         int[] ar = new int[size];
